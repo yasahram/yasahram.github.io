@@ -1,7 +1,5 @@
 html {
 	background-color: #DAE9EE;
-	
-
 }
 body {
 	color: black;
@@ -10,9 +8,6 @@ body {
 main {
 	margin-left: 50px;
 	margin-right: 50px;
-}
-h2 {
-	text-align:center;
 }
 ul {
 	list-style-type: none;
