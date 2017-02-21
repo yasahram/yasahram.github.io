@@ -17,13 +17,12 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-}
-li a {
+}a {
 	color: black;
 	display: block;
 	width: 60px;
 }
-li a:hover {
+a:hover {
 	color: white;
 }
 a:link {
@@ -49,7 +48,8 @@ a:active {
 	width: 200px;
 	height: 200px;
 }
-
+#Name {
+	
 
 
 
