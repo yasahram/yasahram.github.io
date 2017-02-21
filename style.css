@@ -1,7 +1,13 @@
-header {
-	background-color:#DAE9EE;
-	text-align:center;
-	color: white;
+html {
+	background-color: #DAE9EE;
+}
+body {
+	color: black;
+	width: 720px;
+}
+main {
+	margin-left: 20px;
+	margin-right: 20px;
 }
 h1, h2 {
 	padding: 10px;
