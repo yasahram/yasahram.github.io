@@ -43,6 +43,7 @@ a:active {
 #divB {
 	width: 503px;
 	height: 486px;
+	float: right; 
 }
 #NAV {
 	margin-right: 1228px;
