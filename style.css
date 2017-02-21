@@ -1,6 +1,6 @@
 html {
 	background-color: #DAE9EE;
-	text-align:center;
+
 }
 body {
 	color: black;
@@ -11,6 +11,7 @@ main {
 	margin-right: 20px;
 }
 h1, h2 {
+	text-align:center;
 	padding: 10px;
 }
 ul {
