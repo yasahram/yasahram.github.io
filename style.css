@@ -20,6 +20,7 @@ ul {
 	padding: 0;
 }
 li a {
+	color: black;
 	display: block;
 	width: 60px;
 }
@@ -46,8 +47,8 @@ a:active {
 	margin-top: 114px;
 }
 #divB {
-	width: 224px;
-	height: 400px;
+	width: 200px;
+	height: 200px;
 }
 
 
