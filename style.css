@@ -10,13 +10,17 @@ main {
 	margin-right: 20px;
 }
 @media (max-width: 400px){
+	h1{
+	font-size: 40px;
+	}
 }
 
 ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-}a {
+}
+a {
 	color: black;
 	display: block;
 	width: 60px;
